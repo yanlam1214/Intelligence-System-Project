@@ -1,5 +1,5 @@
 # Intelligence-System-Project
-# Schnapsen platform - Project Intelligent Systems 2022-2023
+## Schnapsen platform 
 
 ## Getting started
 
